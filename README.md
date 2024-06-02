@@ -1,2 +1,4 @@
 # RTS-CE453
-Real-Time System Course Project
+Real-Time Systems course @ SUT.
+---
+Our solution to the project of the course.
